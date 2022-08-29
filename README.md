@@ -3,6 +3,8 @@
 线上访问地址：[http://www.shadowingszy.top/train-tickets/index.html](http://www.shadowingszy.top/train-tickets/index.html)
 <br>
 <br>
+
+送死
 train-tickets-back-end为后台工程文件。<br>
 train-tickets-front-end为前端工程文件。<br>
 <br>
@@ -48,4 +50,7 @@ train-tickets-front-end为前端工程文件。<br>
 <br>
 最后进行后台的部署，将train-tickets-back-end项目打包成war文件后，直接丢到tomcat里。<br>
 向localhost:8080/TrainTickets/xxx (xxx为对应的接口)发起post请求就可以了。<br>
+
+
+
 
